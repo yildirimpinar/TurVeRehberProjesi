@@ -1,0 +1,17 @@
+C:\Users\qq\Desktop\Projeler\CSharpEğtimKampi\CSharpEğtimKampi.EFProject\bin\Debug\CSharpEğtimKampi.EFProject.exe.config
+C:\Users\qq\Desktop\Projeler\CSharpEğtimKampi\CSharpEğtimKampi.EFProject\bin\Debug\CSharpEğtimKampi.EFProject.exe
+C:\Users\qq\Desktop\Projeler\CSharpEğtimKampi\CSharpEğtimKampi.EFProject\bin\Debug\CSharpEğtimKampi.EFProject.pdb
+C:\Users\qq\Desktop\Projeler\CSharpEğtimKampi\CSharpEğtimKampi.EFProject\bin\Debug\EntityFramework.dll
+C:\Users\qq\Desktop\Projeler\CSharpEğtimKampi\CSharpEğtimKampi.EFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\qq\Desktop\Projeler\CSharpEğtimKampi\CSharpEğtimKampi.EFProject\bin\Debug\EntityFramework.xml
+C:\Users\qq\Desktop\Projeler\CSharpEğtimKampi\CSharpEğtimKampi.EFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\qq\Desktop\Projeler\CSharpEğtimKampi\CSharpEğtimKampi.EFProject\obj\Debug\CSharpEğtimKampi.EFProject.csproj.AssemblyReference.cache
+C:\Users\qq\Desktop\Projeler\CSharpEğtimKampi\CSharpEğtimKampi.EFProject\obj\Debug\CSharpEğtimKampi.EFProject.Form1.resources
+C:\Users\qq\Desktop\Projeler\CSharpEğtimKampi\CSharpEğtimKampi.EFProject\obj\Debug\CSharpEğtimKampi.EFProject.Properties.Resources.resources
+C:\Users\qq\Desktop\Projeler\CSharpEğtimKampi\CSharpEğtimKampi.EFProject\obj\Debug\CSharpEğtimKampi.EFProject.csproj.GenerateResource.cache
+C:\Users\qq\Desktop\Projeler\CSharpEğtimKampi\CSharpEğtimKampi.EFProject\obj\Debug\CSharpEğtimKampi.EFProject.csproj.CoreCompileInputs.cache
+C:\Users\qq\Desktop\Projeler\CSharpEğtimKampi\CSharpEğtimKampi.EFProject\obj\Debug\CSharpE_.AE8BB48D.Up2Date
+C:\Users\qq\Desktop\Projeler\CSharpEğtimKampi\CSharpEğtimKampi.EFProject\obj\Debug\CSharpEğtimKampi.EFProject.exe
+C:\Users\qq\Desktop\Projeler\CSharpEğtimKampi\CSharpEğtimKampi.EFProject\obj\Debug\CSharpEğtimKampi.EFProject.pdb
+C:\Users\qq\Desktop\Projeler\CSharpEğtimKampi\CSharpEğtimKampi.EFProject\obj\Debug\CSharpEğtimKampi.EFProject.FrmLocation.resources
+C:\Users\qq\Desktop\Projeler\CSharpEğtimKampi\CSharpEğtimKampi.EFProject\obj\Debug\CSharpEğtimKampi.EFProject.FrmStatistics.resources
